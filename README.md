@@ -11,8 +11,6 @@
 
 - 📝 I regularly write articles on [frenow.blogspot.com](frenow.blogspot.com)
 
-- 💬 Ask me about **reactjs, nodejs**
-
 - 📫 How to reach me **frenow@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
