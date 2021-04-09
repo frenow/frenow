@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Fullstack dev**
 
-- 📝 I regularly write articles on [frenow.blogspot.com](frenow.blogspot.com)
+- 📝 I regularly write articles on [http://frenow.blogspot.com](frenow.blogspot.com)
 
 - 📫 How to reach me **frenow@gmail.com**
 
